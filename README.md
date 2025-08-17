@@ -10,7 +10,9 @@
   <b>Configure your Python scripts with magic ✨</b>
 </p>
 
-**Confetti** is a lightweight configuration management library for Python built on Pydantic. It lets you configure runs of your scripts using YAML files, with overrides from CLI arguments or environment variables.
+**Confetti** is a lightweight configuration management library for Python built on Pydantic. It lets you configure runs of your scripts using YAML files, with overrides from CLI arguments or environment variables. All you need is a Pydantic model and it'll handle the rest.
+
+_This is a super simple wrapper for pydantic-settings right now but I plan to make it more feature-rich over time!_
 
 ## Installation
 
