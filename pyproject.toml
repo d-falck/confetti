@@ -1,5 +1,5 @@
 [project]
-name = "confetti"
+name = "python-confetti"
 version = "0.1.0"
 description = "Configure your scripts with magic"
 readme = "README.md"
