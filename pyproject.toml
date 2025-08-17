@@ -1,7 +1,7 @@
 [project]
-name = "ezconfig"
+name = "confetti"
 version = "0.1.0"
-description = "Seamless Pydantic-based YAML configs"
+description = "Configure your scripts with magic"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

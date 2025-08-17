@@ -1,3 +1,3 @@
-# ezconfig
+# confetti
 
-Seamless YAML configs using Pydantic.
+Configure your scripts with magic.
